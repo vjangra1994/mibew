@@ -1,5 +1,5 @@
 ####				####
-	Testing the Deployment by adding message.
+	Testing the Deployment
 ####				####
 Mibew Messenger
 Copyright 2005-2015 the original author or authors.
