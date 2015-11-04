@@ -1,5 +1,5 @@
 ####				####
-	Testing the Deployment by adding message again in the file
+	Testing the Deployment by adding message again in the file. This is the final test
 ####				####
 Mibew Messenger
 Copyright 2005-2015 the original author or authors.
